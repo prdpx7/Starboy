@@ -1,5 +1,5 @@
 #A simple ZSH Theme dedicated to The Weeknd's album Starboy
-#coz `weeknd` is one true bae 🖤
+#coz `the weeknd` is one true bae 🖤
 #author - pradeep khileri
 #repo - https://github.com/zuck007/Starboy/
 
